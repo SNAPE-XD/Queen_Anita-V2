@@ -28,7 +28,7 @@ module.exports = {
   BRANCH: process.env.BRANCH || "main",
   VERSION: process.env.VERSION || "1.0.0",
   caption: process.env.CAPTION || "`©SNAPE-V2`",
-  author: process.env.PACK_AUTHER || "Snape-V2",
+  author: process.env.PACK_AUTHER || "SNAPE-V2",
   packname: process.env.PACK_NAME || "S N A P E",
   botname: process.env.BOT_NAME || "SNAPE-V2",
   ownername: process.env.OWNER_NAME || "Tamseel Riaz",
