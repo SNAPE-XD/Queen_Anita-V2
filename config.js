@@ -24,6 +24,7 @@ global.userImages =
 
 module.exports = {
   menu: process.env.MENU || "",
+  autoreact: process.env.AUTO_REACT || "true",
   HANDLERS: process.env.PREFIX || ".",
   BRANCH: process.env.BRANCH || "main",
   VERSION: process.env.VERSION || "1.0.0",
