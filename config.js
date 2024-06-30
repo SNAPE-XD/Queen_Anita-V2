@@ -31,7 +31,7 @@ module.exports = {
   author: process.env.PACK_AUTHER || "SNAPE-V2",
   packname: process.env.PACK_NAME || "S N A P E",
   botname: process.env.BOT_NAME || "SNAPE-V2",
-  ownername: process.env.OWNER_NAME || "Tamseel Riaz",
+  ownername: process.env.OWNER_NAME || "Tamseel_Riaz",
   errorChat: process.env.ERROR_CHAT || "",
   KOYEB_API: process.env.KOYEB_API || "false",
   REMOVE_BG_KEY: process.env.REMOVE_BG_KEY || "",
